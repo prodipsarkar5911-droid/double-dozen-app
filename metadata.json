@@ -1,0 +1,6 @@
+{
+  "name": "Double Dozen Predictor",
+  "description": "Smart live roulette double dozen pattern analyzer and high-accuracy signal prediction engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
